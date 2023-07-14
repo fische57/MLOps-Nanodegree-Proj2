@@ -24,7 +24,8 @@ The purpose of this project was to practice deploying a model, so I did not full
 
 # Screenshots
 
-![image](https://github.com/fische57/Proj2-Nanodegree/assets/52047242/012e4a40-5d49-40de-b202-7ef7316d3295)
+![image](https://github.com/fische57/Proj2-Nanodegree/assets/52047242/e10ea7dd-b82b-4054-b6a2-8181fbb2aa3c)
+
 
 
 # Screencast 
