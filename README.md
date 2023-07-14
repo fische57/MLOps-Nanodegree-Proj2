@@ -15,7 +15,7 @@ Project main steps:
 8. Documentation
 ![image](https://github.com/fische57/Proj2-Nanodegree/assets/52047242/b6f1a337-5e2b-4621-89e4-5d77127cf0b7)
 
-
+Source: Udacity Machine Learning Engineer with Microsoft Azure Nanodegree Project: Operationalizing Machine Learning 
 # Architectural Diagram
 <img width="259" alt="image" src="https://github.com/fische57/Proj2-Nanodegree/assets/52047242/9565739a-e65a-413d-99bb-d76b17f68935">
 
