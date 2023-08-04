@@ -9,6 +9,7 @@ key = 'x0zqxWzBQcj1borv2r5FpAvyhki8wVWQ'
 
 # Two sets of data to score, so we get two results back
 data = {"Inputs":
+        {"data":
         [
           {
             "age": 17,
@@ -56,6 +57,7 @@ data = {"Inputs":
           },
       ]
     }
+}
 # Convert to JSON string
 input_data = json.dumps(data)
 with open("data.json", "w") as _f:
